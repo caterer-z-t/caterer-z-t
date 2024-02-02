@@ -1,6 +1,15 @@
 # 💫 About Me:
-- I'm currently working on wrmXpress_gui
-- I'm an Undergraduate student at the University of Wisconsin - Eau Claire studying Biochemistry, Molecular Biology, Applied Mathematics, and Statistics
+- I'm currently working on wrmXpress_gui, using AI for the identification of multi-omic genetic markers of Pancreatic Ductal Adrenal Carcinoma (PDAC).
+
+- I'm an Undergraduate student at the University of Wisconsin - Eau Claire, studying Biochemistry, Molecular Biology, Applied Mathematics, and Statistics.
+
+- I'm an Undergraduate researcher in the Wheeler Lab and the Gomes Lab at the University of Wisconsin - Eau Claire.
+
+# Wheeler Lab Project
+In the Wheeler Lab, I am developing a Graphical User Interface (GUI) for the software wrmXpress (GitHub), which is used for the high-throughput analysis of parasites. This project is implementing the use of the Python library Dash, allowing the user to create necessary files and conduct the analysis all in a single platform. The GUI code can be found here: wrmXpress_gui.
+
+# Gomes Lab Project
+In the Gomes Lab, I am developing methods implementing the use of feature selection, machine learning, and deep learning pipelines for the detection/identification of markers of Pancreatic Ductal Adrenal Carcinoma (PDAC) using DNA Methylation and RNA sequencing datasets.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/z_26caterer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zacharytcaterer) 
@@ -25,10 +34,6 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=caterer-z-t&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 [![](https://visitcount.itsvg.in/api?id=caterer-z-t&icon=0&color=0)](https://visitcount.itsvg.in)
 
