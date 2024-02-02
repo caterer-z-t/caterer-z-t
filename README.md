@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm currently working on wrmXpress_gui
-I'm an Undergraduate student at the University of Wisconsin - Eau Claire studying Biochemistry, Molecular Biology, Applied Mathematics, and Statistics
+- I'm currently working on wrmXpress_gui
+- I'm an Undergraduate student at the University of Wisconsin - Eau Claire studying Biochemistry, Molecular Biology, Applied Mathematics, and Statistics
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/z_26caterer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zacharytcaterer) 
