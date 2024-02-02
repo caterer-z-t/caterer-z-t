@@ -6,7 +6,7 @@
 - I'm an Undergraduate researcher in the Wheeler Lab and the Gomes Lab at the University of Wisconsin - Eau Claire.
 
 # Wheeler Lab Project
-In the Wheeler Lab, I am developing a Graphical User Interface (GUI) for the software wrmXpress (GitHub), which is used for the high-throughput analysis of parasites. This project is implementing the use of the Python library Dash, allowing the user to create necessary files and conduct the analysis all in a single platform. The GUI code can be found here: wrmXpress_gui.
+In the Wheeler Lab, I am developing a Graphical User Interface (GUI) for the software [wrmXpress](https://github.com/zamanianlab/wrmXpress), which is used for the high-throughput analysis of parasites. This project is implementing the use of the Python library Dash, allowing the user to create necessary files and conduct the analysis all in a single platform. The GUI code can be found here: [wrmXpress_gui](https://github.com/wheelerlab-uwec/wrmXpress-gui).
 
 # Gomes Lab Project
 In the Gomes Lab, I am developing methods implementing the use of feature selection, machine learning, and deep learning pipelines for the detection/identification of markers of Pancreatic Ductal Adrenal Carcinoma (PDAC) using DNA Methylation and RNA sequencing datasets.
