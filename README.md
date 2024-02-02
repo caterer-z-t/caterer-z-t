@@ -1,12 +1,12 @@
 # 💫 About Me:
 - I'm currently working on wrmXpress_gui, using AI for the identification of multi-omic genetic markers of Pancreatic Ductal Adrenal Carcinoma (PDAC).
 
-- I'm an Undergraduate student at the University of Wisconsin - Eau Claire, studying Biochemistry, Molecular Biology, Applied Mathematics, and Statistics.
+- I'm an Undergraduate student at the [University of Wisconsin - Eau Claire](https://www.uwec.edu/), studying [Biochemistry, Molecular Biology](https://www.uwec.edu/academics/programs/undergraduate/biochemistry-molecular-biology/), [Applied Mathematics, and Statistics](https://www.uwec.edu/academics/programs/undergraduate/statistics-applied-mathematics/).
 
-- I'm an Undergraduate researcher in the Wheeler Lab and the Gomes Lab at the University of Wisconsin - Eau Claire.
+- I'm an Undergraduate researcher in the [Wheeler Lab](https://wheelerlab.bio/) and the [Gomes Lab](https://www.uwec.edu/profiles/gomesr/) at the University of Wisconsin - Eau Claire.
 
 # Wheeler Lab Project
-In the Wheeler Lab, I am developing a Graphical User Interface (GUI) for the software [wrmXpress](https://github.com/zamanianlab/wrmXpress), which is used for the high-throughput analysis of parasites. This project is implementing the use of the Python library Dash, allowing the user to create necessary files and conduct the analysis all in a single platform. The GUI code can be found here: [wrmXpress_gui](https://github.com/wheelerlab-uwec/wrmXpress-gui).
+In the Wheeler Lab, I am developing a Graphical User Interface (GUI) for the software [wrmXpress](https://github.com/zamanianlab/wrmXpress), which is used for the high-throughput analysis of parasites. This project is implementing the use of the Python library Dash, allowing the user to create necessary files and conduct the analysis all in a single platform. The GUI code can be found here: [wrmXpress-gui](https://github.com/wheelerlab-uwec/wrmXpress-gui).
 
 # Gomes Lab Project
 In the Gomes Lab, I am developing methods implementing the use of feature selection, machine learning, and deep learning pipelines for the detection/identification of markers of Pancreatic Ductal Adrenal Carcinoma (PDAC) using DNA Methylation and RNA sequencing datasets.
