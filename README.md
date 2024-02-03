@@ -1,9 +1,10 @@
 # 💫 About Me:
-- I'm currently working on wrmXpress_gui, using AI for the identification of multi-omic genetic markers of Pancreatic Ductal Adrenal Carcinoma (PDAC).
 
 - I'm an Undergraduate student at the [University of Wisconsin - Eau Claire](https://www.uwec.edu/), studying [Biochemistry, Molecular Biology](https://www.uwec.edu/academics/programs/undergraduate/biochemistry-molecular-biology/), [Applied Mathematics, and Statistics](https://www.uwec.edu/academics/programs/undergraduate/statistics-applied-mathematics/).
 
 - I'm an Undergraduate researcher in the [Wheeler Lab](https://wheelerlab.bio/) and the [Gomes Lab](https://www.uwec.edu/profiles/gomesr/) at the University of Wisconsin - Eau Claire.
+
+- I'm currently working on two projects, one informally known as wrmXpress_gui, and the other project using AI for the identification of multi-omic genetic markers of Pancreatic Ductal Adrenal Carcinoma (PDAC).
 
 # Wheeler Lab Project
 In the Wheeler Lab, I am developing a Graphical User Interface (GUI) for the software [wrmXpress](https://github.com/zamanianlab/wrmXpress), which is used for the high-throughput analysis of parasites. This project is implementing the use of the Python library Dash, allowing the user to create necessary files and conduct the analysis all in a single platform. The GUI code can be found here: [wrmXpress-gui](https://github.com/wheelerlab-uwec/wrmXpress-gui).
