@@ -1,28 +1,28 @@
 # About Me:
 Heyo, I am Zachary Caterer. 
-## Graduate
+## Graduate Education
 - I am a graduate student at the [University of Colorado Boulder](https://www.colorado.edu/) studying [Biological Engineering](https://www.colorado.edu/chbe/apply/graduate-program/biological-engineering-phd-program) and I am in the [Interdisciplinary Quantitative Biology Program](https://www.colorado.edu/certificate/iqbiology/).  
 
 ![Boulder Campus](assets/boulder/mountains.jpg)
 
 - As a graduate student I have done research in the [Zhang lab](https://fanzhanglab.org/) at [CU Anschutz School of Medicine Division of Rheumatology](https://medschool.cuanschutz.edu/rheumatology), and the [Stanislawski Lab](https://medschool.cuanschutz.edu/dbmi/lab-pages/stanislawski-lab) at [CU Anschutz School of Medicine Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi), [Rationally designed immunotherapeutics & INTERFACEs research group](https://www.sprengergroup.com/) at [CU Boulder Department of Chemical and Biological Engineering](https://www.colorado.edu/chbe/). 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <img src="assets/boulder/zhang_lab_logo.png" alt="Zhang Lab Logo"  href = "https://fanzhanglab.org/" style="width: 25%; margin-right: 10px;">
-  <img src="assets/boulder/dbmi_cua_logo.jpg" alt="CU Anschutz DBMI Logo" href = "https://medschool.cuanschutz.edu/dbmi/lab-pages/stanislawski-lab" style="width: 25%; height:100%">
-  <img src="assets/boulder/RDI_logo.png" alt="RDI Logo" href = "https://www.sprengergroup.com/" style="width: 25%; height:100%">
+  <img src="assets/boulder/zhang_lab_logo.png" alt="Zhang Lab Logo"  href = "https://fanzhanglab.org/" style="width: 24%; margin-right: 10px;">
+  <img src="assets/boulder/dbmi_cua_logo.jpg" alt="CU Anschutz DBMI Logo" href = "https://medschool.cuanschutz.edu/dbmi/lab-pages/stanislawski-lab" style="width: 24%; height:100%">
+  <img src="assets/boulder/RDI_logo.png" alt="RDI Logo" href = "https://www.sprengergroup.com/" style="width: 24%; height:100%">
 </div>
 
-## Undergraduate
+## Undergraduate Education
 - I obtained my Undergraduate degree from the [University of Wisconsin - Eau Claire](https://www.uwec.edu/), with degrees in [Biochemistry, Molecular Biology](https://www.uwec.edu/academics/programs/undergraduate/biochemistry-molecular-biology/), and [Applied Mathematics, and Statistics](https://www.uwec.edu/academics/programs/undergraduate/statistics-applied-mathematics/).
 
 ![UWEC Ariel](assets/uwec/uwec_aerial.jpg)
-- As an Undergraduate researcher in the [Wheeler Lab](https://wheelerlab.bio/) and the [Gomes Lab](https://www.uwec.edu/profiles/gomesr/) at the [University of Wisconsin - Eau Claire]()https://www.uwec.edu/, the [Spectral Pathology Lab](https://www.spectralpathology.com/home) at [New York Institute of Technology](https://www.nyit.edu/), and [The Kamariza Lab](https://www.kamarizalab.com/) at the [University of California Los Angeles](https://www.ucla.edu/). 
+- As an Undergraduate researcher in the [Wheeler Lab](https://wheelerlab.bio/) and the [Gomes Lab](https://www.uwec.edu/profiles/gomesr/) at the [University of Wisconsin - Eau Claire](https://www.uwec.edu/), the [Spectral Pathology Lab](https://www.spectralpathology.com/home) at [New York Institute of Technology](https://www.nyit.edu/), and [The Kamariza Lab](https://www.kamarizalab.com/) at the [University of California Los Angeles](https://www.ucla.edu/). 
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <img src="assets/uwec/wheeler_lab_logo.svg" alt="Wheeler Lab Logo"  href = "https://wheelerlab.bio/" style="width: 25%; margin-right: 10px;">
-  <img src="assets/uwec/uwec_cs_logo.png" alt="UWEC CS Logo" href = "https://www.uwec.edu/profiles/gomesr/" style="width: 25%;">
-  <img src="assets/uwec/spl_logo.png" alt="SPL Logo" href = "https://www.spectralpathology.com/home" style="width: 25%;">
-  <img src="assets/uwec/TKL_logo.jpg" alt="TKL Logo" href = "https://www.kamarizalab.com/" style="width: 25%;">
+  <img src="assets/uwec/wheeler_lab_logo.svg" alt="Wheeler Lab Logo"  href = "https://wheelerlab.bio/" style="width: 24%; margin-right: 10px;">
+  <img src="assets/uwec/uwec_cs_logo.png" alt="UWEC CS Logo" href = "https://www.uwec.edu/profiles/gomesr/" style="width: 24%;">
+  <img src="assets/uwec/spl_logo.png" alt="SPL Logo" href = "https://www.spectralpathology.com/home" style="width: 24%;">
+  <img src="assets/uwec/TKL_logo.jpg" alt="TKL Logo" href = "https://www.kamarizalab.com/" style="width: 24%;">
 </div>
 
 ### Wheeler Lab Project
